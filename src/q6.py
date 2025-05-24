@@ -1,4 +1,7 @@
 def find_first_negative(lst):
+
+    lst =[3,5,-1, 7, -2, 8]
+    
     """
     Task 1
     - Create a function that finds the first negative number in a list (lst).
