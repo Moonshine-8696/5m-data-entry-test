@@ -1,4 +1,7 @@
 def string_reverse(s):
+    s = str("Liverpool")
+    print (s)
+
     """
     Task 1
     - Create a function that reverses a given string (s).
