@@ -1,4 +1,7 @@
 def swap(x, y):
+
+    x = "Apple"
+    y = 10
     """
     Task 1
     - Create a function that would swap the value of x and y using only x and y as variables.
