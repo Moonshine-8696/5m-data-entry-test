@@ -1,4 +1,12 @@
 def update_dictionary(dct, key, value):
+   
+    dct = {"brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+          }
+    key = str("Ford")
+    value = str("Mercedes")
+           
     """
     Task 1
     - Create a function that updates a dictionary (dct) with a new key-value pair.
