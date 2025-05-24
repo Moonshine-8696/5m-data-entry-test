@@ -1,8 +1,9 @@
 def check_divisibility(num, divisor):
 
     num = int(10)
-    divisor = 2
-    
+    divisor = int(2)
+    if check_divisibility(num, divisor) > 0 :
+        pass
     """
     Task 1
     - Create a function to check if the number (num) is divisible by another number (divisor).
